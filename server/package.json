@@ -1,0 +1,15 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "MY FIRST MERN PROJECT",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+
+  },
+  "keywords": ["NodeJs", "Expressjs", "MongoDB"],
+  "author": "Raj",
+  "license": "ISC",
+  "type": "module"
+  
+}
